@@ -1,0 +1,4 @@
+#Tue Jun 11 17:15:25 CST 2019
+base.0=/Users/benx/Downloads/flutter/hello/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
